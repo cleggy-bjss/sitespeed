@@ -28,6 +28,13 @@ cd /sitespeed
 
 Results for the tests will be synced into `<project root>/sitespeed-result`
 
+- Open `index.html` from your test results.
+- From the top navigation click `pages`
+- Click the URL you tested in the table
+- Scroll down a bit and you'll see something like the screenshot below - this is the best bit to use as a comparison with other results
+
+<img width="1049" alt="Screenshot 2021-04-30 at 10 33 03" src="https://user-images.githubusercontent.com/55099878/116677919-ab602b00-a9a0-11eb-8aa4-8360b8a70254.png">
+
 
 # Reasons
 
