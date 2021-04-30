@@ -1,0 +1,21 @@
+{
+  "browsertime": {
+    "mobile": true,
+    "viewPort": "360x640",
+    "visualElements": true,
+    "iterations": 20,
+    "browser": "chrome",
+    "video": false,
+    "visualMetric": true,
+    "chrome": {
+      "CPUThrottlingRate": 4,
+      "collectConsoleLog": true,
+      "includeResponseBodies": "html",
+      "enableTraceScreenshots": true
+    }
+  },
+  "utc": true,
+  "cpu": true,
+  "gzipHAR": true,
+  "mobile": true
+}
